@@ -1,3 +1,4 @@
+//using LinkedList
 public class todolist2 {
     public class Node{
         int data;
